@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="tvEnter">Enter amount (Please Enter)</string>
+    <string name="tvGst">Total Amount</string>
+</resources>
